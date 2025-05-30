@@ -1,0 +1,4 @@
+hello Git,
+this is my first github 
+iam excited to be here to know more about you.
+now i create my own repository i.e.,text1.txt
